@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"../utils"
+	"github.com/Funky1231/auth/utils"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

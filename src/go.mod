@@ -1,4 +1,4 @@
-module auth
+module github.com/Funky1231/auth
 
 go 1.12
 

@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"time"
 
-	"../connectDB"
-	"../models"
-	"../utils"
+	"github.com/Funky1231/auth/connectDB"
+	"github.com/Funky1231/auth/models"
+	"github.com/Funky1231/auth/utils"
 	"github.com/dgrijalva/jwt-go"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"../connectDB"
-	"../models"
+	"github.com/Funky1231/auth/connectDB"
+	"github.com/Funky1231/auth/models"
 	"github.com/google/uuid"
 )
 
